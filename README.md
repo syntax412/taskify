@@ -52,8 +52,6 @@ CLOUD_API_KEY=your-api-key
 CLOUD_API_SECRET=your-api-secret
 ```
 
-# Optional: Cloudinary API Keys CLOUD_NAME=your-cloudinary-cloud-name CLOUD_API_KEY=your-api-key CLOUD_API_SECRET=your-api-secret `> **Hinweis:** Diese Datei enthält sensible Daten und sollte in`.gitignore` ausgeschlossen werden
-
 ### 🔧 Backend
 
 | Paket                    | Beschreibung                                    |
