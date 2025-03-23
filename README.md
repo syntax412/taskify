@@ -2,11 +2,9 @@
 
 Ein Fullstack-Projekt basierend auf dem **MERN-Stack** (MongoDB, Express, React, Node.js) mit Authentifizierung, Task-Management, Filterung, Rollenberechtigungen und moderner UI. Das Projekt basiert auf einer Abänderung vom udemy Kurs "MERN 2025 Edition - Mongo DB, Express, React and NodeJS von John Smilga.
 
-## 🌐 Live Demo
-
-Die Anwendung ist online verfügbar unter:
-
-👉 **[https://taskify-yqhx.onrender.com](https://taskify-yqhx.onrender.com)**
+```
+npm run dev
+```
 
 ---
 
@@ -47,7 +45,7 @@ Erstelle eine `.env`-Datei im `/server`-Verzeichnis mit folgendem Inhalt:
 
 ```env
 NODE_ENV=development
-PORT=5000
+PORT=5100
 MONGO_URL=your-mongo-connection-string
 JWT_SECRET=your-jwt-secret
 JWT_EXPIRES_IN=1d
