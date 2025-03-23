@@ -1,6 +1,6 @@
 # TEKO MERN Project
 
-Ein Fullstack-Projekt basierend auf dem **MERN-Stack** (MongoDB, Express, React, Node.js) mit Authentifizierung, Task-Management, Filterung, Rollenberechtigungen und moderner UI.
+Ein Fullstack-Projekt basierend auf dem **MERN-Stack** (MongoDB, Express, React, Node.js) mit Authentifizierung, Task-Management, Filterung, Rollenberechtigungen und moderner UI. Das Projekt basiert auf einer Abänderung vom udemy Kurs "MERN 2025 Edition - Mongo DB, Express, React and NodeJS von John Smilga.
 
 ---
 
