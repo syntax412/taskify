@@ -6,8 +6,8 @@ Ein Fullstack-Projekt basierend auf dem **MERN-Stack** (MongoDB, Express, React,
 
 ## 📁 Ordnerstruktur
 
-React App: client
-Server: root
+- Server: Root Verzeichnis
+- React App: /client
 
 ## 🚀 Features
 
