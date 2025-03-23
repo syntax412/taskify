@@ -41,7 +41,7 @@ npm run dev
 
 ## 🛠 .env-Konfiguration
 
-Erstelle eine `.env`-Datei im `/server`-Verzeichnis mit folgendem Inhalt:
+Erstelle eine `.env`-Datei im root `/`-Verzeichnis mit folgendem Inhalt:
 
 ```env
 NODE_ENV=development
